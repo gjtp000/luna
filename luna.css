@@ -285,23 +285,23 @@ input {
     background-color: rgb(255, 193, 193);
 }
 .deskTopOption ul.deskTopColor li:nth-child(4) label div {
-    background: url(/images/thum_carbon.jpg) center;
+    background: url(thum_carbon.jpg) center;
     background-size: 100% auto;
 }
 .deskTopOption ul.deskTopColor li:nth-child(5) label div {
-    background: url(/images/thum_stripe.jpg) center;
+    background: url(thum_stripe.jpg) center;
     background-size: 100% auto;
 }
 .deskTopOption ul.deskTopColor li:nth-child(6) label div {
-    background: url(/images/thum_light.jpg) center;
+    background: url(thum_light.jpg) center;
     background-size: 100% auto;
 }
 .deskTopOption ul.deskTopColor li:nth-child(7) label div {
-    background: url(/images/thum_dark.jpg) center;
+    background: url(thum_dark.jpg) center;
     background-size: 100% auto;
 }
 .deskTopOption ul.deskTopColor li:nth-child(8) label div {
-    background: url(/images/thum_walnut.jpg) center;
+    background: url(thum_walnut.jpg) center;
     background-size: 100% auto;
 }
 /*상판선택 옵션(상판크기)*/
